@@ -1,14 +1,3 @@
-altgraph
-aniso8601
-Babel
-blinker
-certifi
-charset-normalizer
-click
-colorama
-DAWG-Python
-docxcompose
-docxtpl
 Flask
 Flask-Login
 Flask-RESTful
@@ -21,10 +10,6 @@ lxml
 MarkupSafe
 packaging
 pefile
-pyinstaller
-pyinstaller-hooks-contrib
-python-docx
-python-pptx
 pytz
 pywin32-ctypes
 requests
